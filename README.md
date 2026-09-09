@@ -12,7 +12,7 @@ JWT/
     NYU/
       strike-connector-2-5/
         prod/jwks.json
-        test/jwkc.json
+        test/jwks.json
 ```
 
 ## Available keys
@@ -20,7 +20,7 @@ JWT/
 | Environment | JWKS file | Key ID |
 | --- | --- | --- |
 | Production | `JWT/EPIC/NYU/strike-connector-2-5/prod/jwks.json` | `strike-2-5-nyu-prod` |
-| Test | `JWT/EPIC/NYU/strike-connector-2-5/test/jwkc.json` | `strike-2-5-nyu` |
+| Test | `JWT/EPIC/NYU/strike-connector-2-5/test/jwks.json` | `strike-2-5-nyu` |
 
 Each file follows the JWKS format and currently contains an RSA public key for signature verification using `RS384`.
 
