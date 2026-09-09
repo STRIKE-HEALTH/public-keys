@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "1Is5PGndBowMnRnvsTQ08p7mXi4loNIr5lbC_dPxxLUDkGCYNshyt5smlcgLkXD6NAg4e3xND45J2yi22xb9PH5o7HGcYs7traHr5zlNxw6B9kTeQXLNK_MrVy7eCK38iRCgdbNW5Ld4R5WhqJMhms8kZoihp95dMw_tFfR013ioH4ZC4ND9mgPChU6j_Er8UxIoDqbKQtS66LzeaVwvgOkqAbaeSocW6qUAtmC9LGRc6csKpDO0K-ZMPV-15DPaqb6_fNvObR-OuiwiZmICjUf-O58gsusXprs_AZeaZSNEDO1OgPAgqejYsW0TAiV87qCC8hvSF789uhBb_0o56w",
+      "e": "AQAB",
+      "kid": "strike-2-5-nyu-prod",
+      "use": "sig",
+      "alg": "RS384"
+    }
+  ]
+}
